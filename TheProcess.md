@@ -1,5 +1,7 @@
 # The Process
 
+The process for 'TDD as if you meant it' from [Code Retreat](http://coderetreat.org/facilitating/activities/tdd-as-if-you-meant-it)
+
 1. Write exactly one new test. It should be the smallest test which seems to point in the direction of a solution.
 2. Run the test to make sure it fails
 3. Make the test from (1) pass by writing the least amount of implementation code you can IN THE TEST METHOD.
