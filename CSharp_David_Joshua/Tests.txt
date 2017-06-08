@@ -1,0 +1,55 @@
+﻿EmptyBoardIsInProgress
+In Progress
+ | | 
+-----
+ | | 
+-----
+ | | 
+
+BoardWithLessThanFivePiecesIsInProgress
+In Progress
+X|0|X
+-----
+ |0| 
+-----
+ | | 
+ 
+BoardWithThreePiecesInAHorizontalRowForPlayer
+X Wins
+X|X|X
+-----
+ |0| 
+-----
+ | | 
+  
+BoardWithThreeInVerticalIsAWinForPlayer
+0 Wins
+X|X|0
+-----
+ | |0
+-----
+ | |0
+
+BoardWithDiagonalIsAWinForPlayer
+0 Wins
+0|X|X
+-----
+ |0|0
+-----
+ | |0
+
+FullBoardIsADraw
+Draw
+X|0|X
+-----
+0|0|X
+-----
+X|X|0
+
+MidGameShouldBeInProgress
+In Progress
+X|0| 
+-----
+0|0|X
+-----
+X|X|0
